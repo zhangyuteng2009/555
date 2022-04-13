@@ -1,0 +1,150 @@
+{
+    "container": {
+        "-webkit-user-select": "none",
+        "-moz-user-select": "none",
+        "user-select" : "none"
+    },
+    "toolbar" : {
+        "overflow" : "hidden",
+        "text-align" : "center"
+    },
+    "uploadActionNode":{
+        "margin": "0px 10px 10px 10px",
+        "background-color": "#FFF",
+        "padding": "4px 14px",
+        "border": "1px solid #999",
+        "border-radius": "3px",
+        "font-size": "14px",
+        "color": "#666",
+        "cursor": "pointer"
+    },
+    "resetActionNode" : {
+        "margin": "10px 10px 10px 10px",
+        "background-color": "#FFF",
+        "padding": "4px 14px",
+        "border": "1px solid #999",
+        "border-radius": "3px",
+        "font-size": "14px",
+        "color": "#666",
+        "cursor": "pointer"
+    },
+    "contentNode" :{
+        "overflow" : "hidden",
+        "border" : "0px solid #ccc"
+    },
+    "descriptionNode":{
+        "font-size":"14px",
+        "color" : "#666",
+        "margin-top" : "5px",
+        "margin-left" : "5px"
+    },
+    "toolbar" : {
+        "font-size": "14px",
+        "color": "#666",
+        "overflow": "hidden",
+        "margin-bottom": "3px",
+        "height": "70px",
+        "background-color": "#F8F8F8",
+        "box-shadow": "0 1px 3px 0 rgba(0,0,0,0.25)"
+    },
+    "toolItemGroup": {
+        "float": "left",
+        "overflow": "hidden"
+    },
+    "toolItem": {
+        "margin": "15px 3px 10px 3px",
+        "color": "#666",
+        "float": "left",
+        "background-repeat": "no-repeat",
+        "background-position-x": "center",
+        "background-position-y": "top",
+        "padding": "23px 5px 5px 5px",
+        "cursor": "pointer"
+    },
+    "toolRightItem": {
+        "margin": "15px 10px 10px 3px",
+        "color": "#666",
+        "float": "right",
+        "background-repeat": "no-repeat",
+        "background-position-x": "center",
+        "background-position-y": "top",
+        "padding": "23px 5px 5px 5px",
+        "cursor": "pointer"
+    },
+    "toolItem_over": {
+        "color": "#3C76B7"
+    },
+    "toolItem_disable": {
+        "color": "#999",
+        "cursor": "default"
+    },
+    "separator": {
+        "margin": "17px 2px 10px 2px",
+        "height": "40px",
+        "float": "left",
+        "border-left": "1px solid rgba(0,0,0,0.12)"
+    },
+    "canvasWrap": {
+        "border": "1px solid #ccc",
+        "margin": "0px auto"
+    },
+    "cancel_mobile": {
+        "color": "#333",
+        "font-size": "16px",
+        "width": "40px",
+        "height": "36px",
+        "font-weight": "bold",
+        "position": "absolute",
+        "top": "20px",
+        "left": "30px"
+    },
+    "save_mobile": {
+        "color": "#4A90E2",
+        "font-size": "16px",
+        "width": "40px",
+        "height": "36px",
+        "font-weight": "bold",
+        "position": "absolute",
+        "top": "20px",
+        "right": "30px"
+    },
+    "undo_mobile": {
+        "background":"#fff url(../o2_core/o2/widget/$Tablet/default/icon/undo_normal.png) no-repeat center center",
+        "width": "36px",
+        "height": "36px",
+        "border-radius": "18px",
+        "box-shadow": "5px 4px 5px #ccc",
+        "position": "absolute",
+        "bottom": "20px",
+        "right": "130px"
+    },
+    "undo_mobile_disable": {
+        "background":"#fff url(../o2_core/o2/widget/$Tablet/default/icon/undo_disable.png) no-repeat center center"
+    },
+    "redo_mobile": {
+        "background":"#fff url(../o2_core/o2/widget/$Tablet/default/icon/redo_normal.png) no-repeat center center",
+        "width": "36px",
+        "height": "36px",
+        "border-radius": "18px",
+        "box-shadow": "5px 4px 5px #ccc",
+        "position": "absolute",
+        "bottom": "20px",
+        "right": "80px"
+    },
+    "redo_mobile_disable": {
+        "background":"#fff url(../o2_core/o2/widget/$Tablet/default/icon/redo_disable.png) no-repeat center center"
+    },
+    "reset_mobile": {
+        "background":"#fff url(../o2_core/o2/widget/$Tablet/default/icon/reset_normal.png) no-repeat center center",
+        "width": "36px",
+        "height": "36px",
+        "border-radius": "18px",
+        "box-shadow": "5px 4px 5px #ccc",
+        "position": "absolute",
+        "bottom": "20px",
+        "right": "30px"
+    },
+    "reset_mobile_disable": {
+        "background":"#fff url(../o2_core/o2/widget/$Tablet/default/icon/reset_disable.png) no-repeat center center"
+    }
+}
