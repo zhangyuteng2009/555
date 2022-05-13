@@ -443,7 +443,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -624,7 +624,7 @@
 			<dependency>
 				<groupId>org.apache.cxf</groupId>
 				<artifactId>cxf-rt-frontend-simple</artifactId>
-				<version>3.3.10</version>
+				<version>3.5.2</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.cxf</groupId>
