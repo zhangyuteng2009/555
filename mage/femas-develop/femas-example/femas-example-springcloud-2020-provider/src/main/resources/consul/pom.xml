@@ -80,7 +80,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-consul-discovery</artifactId>
-            <version>3.0.2</version>
+            <version>4.0.2</version>
         </dependency>
 
         <!-- 2021.1版nacos配置需要依赖spring-cloud-starter-bootstrap才能显示出一些监听数据的日志 -->
